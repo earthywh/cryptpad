@@ -44,7 +44,7 @@
     "jszip": "3.10.1",
     "localforage": "^1.5.2",
     "marked": "^4.3.0",
-    "mathjax": "3.0.5",
+    "mathjax": "3.2.2",
     "netflux-websocket": "^1.2.1",
     "notp": "^2.0.3",
     "nthen": "0.1.8",
